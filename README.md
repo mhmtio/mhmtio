@@ -6,7 +6,8 @@
 #### I am a software developer and consultant specialising in Java, Scala, Asset Control and test automation ...
 
 - 🔭 I’m currently working on a test automation system for Asset Control called [Adetta][adettasite].
-- 💬 Ask me about Asset Control and test automation
+- 💬 Ask me about Asset Control and test automation.
+- I am active on [the Asset Control subreddit][subreddit]
 - 🇫🇷 I’m currently learning French.
 
 
@@ -38,3 +39,4 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCTCK8biy6GOUebjji92RXhQ
 [linkedin]: https://www.linkedin.com/in/matthiashanitzsch/
 [adettasite]: https://terrafino-solutions.com/adetta
+[subreddit]: https://reddit.com/r/asset_control
