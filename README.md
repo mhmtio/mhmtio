@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a test automation system for Asset Control called [Adetta][adettasite].
 - 💬 Ask me about Asset Control and test automation.
-- <img src="assets/reddit.svg" /> I am active on [the Asset Control subreddit][subreddit]
+- <img src="assets/reddit.svg" height="16" style="color: orange;"/> I am active on [the Asset Control subreddit][subreddit]
 - 🇫🇷 I’m currently learning French.
 
 
