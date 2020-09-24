@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a test automation system for Asset Control called [Adetta][adettasite].
 - 💬 Ask me about Asset Control and test automation
-- 🌱 I’m currently learning French.
+- 🇫🇷 I’m currently learning French.
 
 
 ### Connect with me:
