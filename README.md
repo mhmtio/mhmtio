@@ -1,6 +1,6 @@
 ### Hello, my name is Matthias Hanitzsch-Moonlight
 
-- 🔭 I’m currently working on a test automation system for Asset Control called [Adetta](https//terrafino-solutions.com/adetta).
+- 🔭 I’m currently working on a test automation system for Asset Control called [Adetta][adettasite].
 
 ### Connect with me:
 
@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 [website]: https://mhmt.io
 [youtube]: https://www.youtube.com/channel/UCTCK8biy6GOUebjji92RXhQ
 [linkedin]: https://www.linkedin.com/in/matthiashanitzsch/
-[adettasite]: https//terrafino-solutions.com/adetta
+[adettasite]: https://terrafino-solutions.com/adetta
