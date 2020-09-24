@@ -1,5 +1,7 @@
 ### Hello, my name is Matthias Hanitzsch-Moonlight
 
+#### I am a software developer and consultant specialising in Java, Scala, test automation and Asset Control ...
+
 - 🔭 I’m currently working on a test automation system for Asset Control called [Adetta][adettasite].
 
 ### Connect with me:
