@@ -10,6 +10,12 @@
 - <img src="assets/reddit.svg" height="16" style="color: orange;"/> I am active on [the Asset Control subreddit][subreddit]
 - 🇫🇷 I’m currently learning French.
 
+### Articles you might find interesting
+
+- [A chatbot for Asset Control](https://terrafino-solutions.com/blog/ac/ac-bot/)
+- [Validating suspect stock prices in Slack](https://terrafino-solutions.com/blog/ac/ac-slack-app/)
+- [A GraphQL service for Asset Control](https://terrafino-solutions.com/blog/ac/ac-graphql/)
+- [A React app for plotting FX rates](https://terrafino-solutions.com/blog/ac/ac-react-fx/)
 
 ### Connect with me:
 
