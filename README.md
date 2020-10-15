@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 [website]: https://mhmt.io
 [youtube]: https://www.youtube.com/channel/UCTCK8biy6GOUebjji92RXhQ
 [linkedin]: https://www.linkedin.com/in/matthiashanitzsch/
-[medium]: https://medium.com/@mhmtio
+[medium]: https://mhmtio.medium.com/
 [adettasite]: https://terrafino-solutions.com/adetta
 [subreddit]: https://reddit.com/r/asset_control
