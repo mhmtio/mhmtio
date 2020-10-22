@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/SKILL-Asset_Control-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/SKILL-Java-informational?style=flat&color=2bbc8a)
 
 
 ### Hello, my name is Matthias Hanitzsch-Moonlight
