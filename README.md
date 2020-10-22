@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/SKILL-Asset_Control-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/SKILL-Asset_Control-informational?style=flat&color=2bbc8a)<br />
 ![](https://img.shields.io/badge/LANG-Java-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/LANG-Scala-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/LANG-Scala-informational?style=flat&color=2bbc8a)<br />
 ![](https://img.shields.io/badge/TOOL-Vim-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOL-IDEA-informational?style=flat&color=2bbc8a)
 
