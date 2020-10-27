@@ -8,6 +8,10 @@
 ![](https://img.shields.io/badge/LIB-ReactJs-informational?style=flat&color=b451ed)
 ![](https://img.shields.io/badge/LIB-Spring-informational?style=flat&color=b451ed)
 ![](https://img.shields.io/badge/LIB-Spring_Boot-informational?style=flat&color=b451ed)<br />
+![](https://img.shields.io/badge/TEST-JUnit-informational?style=flat&color=d98fb9)
+![](https://img.shields.io/badge/TEST-Mockito-informational?style=flat&color=d98fb9)
+![](https://img.shields.io/badge/TEST-Cucumber-informational?style=flat&color=d98fb9)
+![](https://img.shields.io/badge/TEST-Scalatest-informational?style=flat&color=d98fb9)<br />
 ![](https://img.shields.io/badge/TOOL-Vim-informational?style=flat&color=33c7e8)
 ![](https://img.shields.io/badge/TOOL-IDEA-informational?style=flat&color=33c7e8)
 
