@@ -39,7 +39,8 @@
 [<img align="left" alt="mhmt.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="codeSTACKr | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
@@ -62,6 +63,7 @@ Here are some ideas to get you started:
 [website]: https://mhmt.io
 [youtube]: https://www.youtube.com/channel/UCTCK8biy6GOUebjji92RXhQ
 [linkedin]: https://www.linkedin.com/in/matthiashanitzsch/
+[xing]: https://www.xing.com/profile/Matthias_HanitzschMoonlight/cv
 [medium]: https://mhmtio.medium.com/
 [adettasite]: https://terrafino-solutions.com/adetta
 [subreddit]: https://reddit.com/r/asset_control
